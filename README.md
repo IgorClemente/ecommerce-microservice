@@ -1,7 +1,8 @@
 # ecommerce-microservice
 .NET ecommerce microservice application
 
-![image](https://github.com/user-attachments/assets/0bc673ca-d387-46a7-ae27-61f73bb8be9f)
+<img width="937" alt="Screenshot 2024-12-16 at 22 10 13" src="https://github.com/user-attachments/assets/a11d871b-29f8-41f8-8e46-56de8cdb0877" />
+
 
 [[Play Trading]([https://pages.github.com](https://github.com/iga1dotnetmicroservices/play.trading)/)](https://github.com/iga1dotnetmicroservices/play.trading)
 [[Play Catalog]([https://pages.github.com](https://github.com/iga1dotnetmicroservices/play.catalog)/)](https://github.com/iga1dotnetmicroservices/play.catalog)
