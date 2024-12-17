@@ -13,7 +13,7 @@
 This project is simple Lorem ipsum dolor generator.
 	
 ## Technologies
-Project is created with:
+###Project is created with:
 
 * .NET
 * MongoDB
@@ -24,7 +24,7 @@ Project is created with:
 * Identity Server
 * React
 
-Azure Cloud:
+###Azure Cloud:
 
 * Docker
 * Cosmos DB
@@ -35,10 +35,16 @@ Azure Cloud:
 * Key Vault
 * Emissary Ingress
 
-Dev Ops:
+###Dev Ops:
 * Helm Charts
 * Github Actions
 
+###Observability
+* Seq
+* Open Telemetry
+* Jaeger
+* Prometheus
+* Grafana
 
 ## Repositories
 
